@@ -1,5 +1,6 @@
 # Rename Words in your files
 A python code to rename word or multiple words in a file. Useful especially when the word(s) appears multiple times in your code file.<br>
+Check the image to see how it works<br>
 # Star by cloning this repo<br>
 
 ```
